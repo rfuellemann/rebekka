@@ -13,7 +13,7 @@ UBERON: a cross-species anatomical structural ontology system
 ### What are CNV segmentations and CNV frequencies, and how to use them? What are APIs and how to use APIs in progenetix?
 
 ### How does progenetix visualise CNA profiles?
-
+![/Screen Shot 2022-09-21 at 15.13.55.png](Screen%20Shot%202022-09-21%20at%2015.13.55.png?raw=true))
 
 ### What do you think should be improved in progenetix?
 
