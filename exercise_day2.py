@@ -20,4 +20,5 @@ while True:
 
 datafile.close()
 
-print(pd.DataFrame(data=linelist, columns=names))
+df= pd.DataFrame(data=linelist, columns=names)
+df.to_csv("data.csv")
