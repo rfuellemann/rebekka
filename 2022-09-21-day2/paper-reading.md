@@ -6,9 +6,9 @@ CNV: copy number variation
 ### How will you describe or introduce progenetix (scale, data source, cancer types and so on)?
 Progenetix is a cancer genome data resource.
 
-### Describe NCIt, ICOD, UBERON codes, and their relationships.
+### Describe NCIt, ICD-O, UBERON codes, and their relationships.
 NCIt: National Cancer Institute Thesaurus
-
+CN
 ICD-O:International Classification of Diseases for Oncology
 
 UBERON: a cross-species anatomical structural ontology system
@@ -17,6 +17,6 @@ UBERON: a cross-species anatomical structural ontology system
 API: application programming interface
 
 ### How does progenetix visualise CNA profiles?
-![/Screen Shot 2022-09-21 at 15.13.55.png](Screen%20Shot%202022-09-21%20at%2015.13.55.png?raw=true))
+![/CNAprofile.png](CNAprofile.png)
 
 ### What do you think should be improved in progenetix?
