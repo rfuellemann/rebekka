@@ -3,10 +3,12 @@ import pandas as pd
 
 datafile =open("data.pgxseg")
 
-for i in range(1006):
-    datafile.readline()
+while True:
+    line=datafile.readline()
+    if line[0]!="#":
+        names = line.split()
+        break
 
-names = datafile.readline().split()
 linelist=[]
 
 while True:
