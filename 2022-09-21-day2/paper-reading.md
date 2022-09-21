@@ -11,8 +11,9 @@ The International Classification of Diseases for Oncology (ICD-O) is structured 
 In contrast, the thesaurus of the National Cancer Institute (NCIt)  has a hirachical structure.
 UBERON is a cross-species anatomical structural ontology system with a relationship structure.
 
-### How does progenetix visualise CNA profiles? What are CNV segmentations and CNV frequencies, and how to use them? What are APIs and how to use APIs in progenetix?
+### How does progenetix visualise CNA profiles? What are CNV segmentations and CNV frequencies, and how to use them?
 The graph shows, in this case for an Eye Neoplasm, how frequent CNAs occurr on the respective segment of the gemone.
 ![/collationPlots.svg](collationPlots.svg)
 
+### What are APIs and how to use APIs in progenetix?
 API: application programming interface
