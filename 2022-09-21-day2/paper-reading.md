@@ -6,13 +6,10 @@ Progenetix is a cancer genome data resource which provides an overview of mutati
 The data is based on individual sample data from more than 140000 samples.
 The genomic profiling data was derived from genomic arrays and chromosomal Comparative Genomic Hybridization (CGH) as well as Whole Genome or Whole Exome Sequencing (WGS, WES) studies. Genomic profiles are either processed from various raw data formats or are extracted from published experimental results.
 
-
 ### Describe NCIt, ICD-O, UBERON codes, and their relationships.
-NCIt: National Cancer Institute Thesaurus
-CN
-ICD-O:International Classification of Diseases for Oncology
-
-UBERON: a cross-species anatomical structural ontology system
+The International Classification of Diseases for Oncology (ICD-O) is structured as a combination of morphology and topography.
+In contrast, the thesaurus of the National Cancer Institute (NCIt)  has a hirachical structure.
+UBERON is a cross-species anatomical structural ontology system with a relationship structure.
 
 ### What are CNV segmentations and CNV frequencies, and how to use them? What are APIs and how to use APIs in progenetix?
 API: application programming interface
