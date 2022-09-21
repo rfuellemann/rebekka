@@ -17,6 +17,6 @@ UBERON is a cross-species anatomical structural ontology system with a relations
 API: application programming interface
 
 ### How does progenetix visualise CNA profiles?
-![/CNAprofile.png](CNAprofile.png)
+![/collationPlots.svg](collationPlots.svg)
 
 ### What do you think should be improved in progenetix?
