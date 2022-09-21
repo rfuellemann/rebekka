@@ -12,6 +12,8 @@ In contrast, the thesaurus of the National Cancer Institute (NCIt)  has a hirach
 UBERON is a cross-species anatomical structural ontology system with a relationship structure.
 
 ### What are CNV segmentations and CNV frequencies, and how to use them? What are APIs and how to use APIs in progenetix?
+
+
 API: application programming interface
 
 ### How does progenetix visualise CNA profiles?
