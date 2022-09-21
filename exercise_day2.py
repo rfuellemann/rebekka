@@ -10,15 +10,14 @@ while True:
         break
 
 linelist=[]
-
 while True:
     line=datafile.readline()
-    linelist.append(line.split())
+
     if line == "":
         break
-
-
-print(pd.DataFrame(data=linelist, columns=names))
-
+    else:
+        linelist.append(line.split())
 
 datafile.close()
+
+print(pd.DataFrame(data=linelist, columns=names))
